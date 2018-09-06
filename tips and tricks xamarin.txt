@@ -1,0 +1,3 @@
+Library voor web clients : Polly
+Library data sqllite : Akavache
+Library voor exceptions : Fody
